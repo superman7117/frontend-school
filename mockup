@@ -1,0 +1,318 @@
+Images
+Icons
+Fonts
+Colors
+Text
+Gradients
+Shadows
+Sizes (width/height)
+
+NAVBAR
+width: 320 px
+Height: 40 px
+color: acd373
+NAVMENU
+width: 40px
+height: 40px
+color 89a85c
+shadow
+    Opacity:6%
+    color 000000
+    
+Section 1
+    height 350px
+    width 360 px
+    background color: 9abd67
+    Space: 125px
+    Font SourcesSans Bold
+    size 20 px
+    font color: f7f7f7
+    space between headers 17 px
+    space: 20px
+    DroidSerif Italic
+    font size: 13 px
+    font color f7f7f7
+    
+Section 2
+    Height: 500px
+    space: 44px
+    Image:
+    background color:f7f7f7
+    Space from top for icon:287px
+    Space from seft for icon: 29px
+    fonts: Source San Pro Regular
+    Font size: 18px
+    font color: 454545
+    Space from top for text:295px
+    Space from left text:67px
+    Font size: 13px
+    Space: 34px
+
+    
+    space:28px
+    font: droidserif italic
+    font size: 11pt
+    button color: acd373
+    
+    Section 3
+    background color:acd373
+    fonts
+    size
+    font color
+    space
+    
+    Section 4
+    background color:image
+    fonts
+    size
+    font color
+    space
+    
+    Section 5
+    Height: 499
+    background color:f7f7f7
+    Space: 43
+    font:Source Sans Pro Regular
+    font size:18
+    font color: Gray Green
+    Space: 14px
+    font:DroidSerif Regular
+    font size:12px
+    font color: gray
+    space: 16px
+    image black seperator
+    Icon size: 76 x 6
+    Space 35
+    space from left for text: 101
+    font:Source Sans Pro Bold
+    font size:14
+    font color: Green
+    Space: 15
+    font:Source Sans Pro Regular
+    font size:13
+    font color: Gray
+    Space: 43
+    font:Source Sans Pro Bold
+    font size:14
+    font color: Green
+    Space: 15
+    font:Source Sans Pro Regular
+    font size:13
+    font color: Gray 
+    Space: 41
+    font:Source Sans Pro Bold
+    font size:14
+    font color: Green
+    Space: 15
+    font:Source Sans Pro Regular
+    font size:13
+    font color: Gray 
+    Space: 48
+    button
+    size: 91 x 30
+    weight:1
+    font:DroidSerif Italic
+    font size: 11
+     color:  Green
+    
+    Space from top for icon:130
+    Space from left for icon:41
+    image: black paint brush
+    Icon size: 36 x 61
+    Space:30
+    Space from lift for icon: 40
+    image black phone
+    Icon Size: 35 x 59
+    Space:44
+    Space from lift for icon: 42
+    image black moniter
+    Icon Size: 42 x 48
+    
+    Section 6
+    height: 419
+    background color:acd373
+    Space: 47
+    font: Sourse Sans Pro Regular
+    font size: 18
+    font color:f7f7f7
+    space: 14
+    font:DroidSerif Regular
+    font size: 12
+    font color: f7f7f7
+    Space 14
+    image white seperator
+    image size 76 x 6
+    Space 50
+    image face 1
+    size 70x70
+    Circle
+    buffer weight: 5
+    buffer color: green
+    space from white seperator: 77
+    segment size 200 x 182
+    edges ??
+    inner space 80
+    font: Sourse Sans Pro Bold
+    font size: 14
+    font Color Green
+    inner space: 17
+    font: Droidserif italic
+    font size: 12
+    font color: grey
+    space: 16
+    inner segment height 52
+    weight top line 1
+    top line color: f0f0f0
+    background color ebebeb
+    space From top line 14
+    space from left of segment: 11
+    dark facebook circle icon size: 23 x 23
+    spacefrom left: 8
+    dark twitter circle icon size: 23 x 23
+    spacefrom left: 8
+    dark linkedin circle icon size: 23 x 23
+    spacefrom left: 8
+    from top of section 232
+    from left of section 30
+    icon double arrows size: 300 x 40
+    
+    
+    Section 7
+    Height: 66
+    background color:9abd67
+    Text from top: 30
+    text from left: 30
+    fonts: Source Sans Pro Regular
+    font size: 13
+    font color: f7f7f7
+    button space from left: 43
+    weight: 1 
+    button size: 100 x 30
+    font: DroidSerif Italic
+    font size: 11
+    Font color: f7f7f7
+    
+    Section 8
+    Height: 520
+    background color:f7f7f7
+    space: 53
+    fonts:Source sans Pro Regular
+    size: 18
+    font color grey green
+    space: 14
+    font: DroidSerif Regular
+    Font size:18
+    font color: grey
+    Space: 14
+    image black seperator: 76 x 6
+    space: 49
+    Image chart : 300 x 163
+    space: 0
+    segment: 299 x 80
+    inner space: 25
+    font:Source Sans Pro bold
+    font size:14
+    font color: gray
+    space: 11
+    Font:DroidSerif Italic
+    font size: 12
+    font color: gray
+    space 45
+    Button: 100 x 30
+    weight: 1
+    font: DroidSerif Italic
+    font size:11
+    font color: green
+    
+    Section 9
+    height: 80
+    background color:ebebeb
+    image studio: 137 x 17
+    from top 32
+    from left: 30
+    image theme: 137 x 26
+    from top 27
+    from left 26
+    
+    Section 10
+    Height 562
+    background color:image
+    from top 61
+    from left 30
+    image quote bubbe: 300x105
+    from top inside image: 21
+    from left inside image: 10
+    fonts: DroidSerif regular
+    size: 12
+    font color: f7f7f7
+    from left inside image: 253
+    font size 48.64
+    space: 13
+    image face 2 81 x 82
+    circle
+    from quote image: 35
+    from face 2 image: 22
+    font: Source Sans Pro Bold
+    font size: 14
+    Font color: green
+    space: 17
+    font:Myriad Pro Regular
+    font size:12
+    font color: f7f7f7
+    space: 49
+    image dots: 40 x 11
+    space: 70
+    from left: 30 
+    font: Source Sans Pro regular
+    font size:18
+    font color: f7f7f7
+    Space: 25
+    font:Source Sans Pro regular
+    fontsize:14
+    fontcolor: f7f7f7
+    space: 28
+    button:
+    button colors: green
+    weight: 1 
+    font:DroidSerif Italic
+    font size:11
+    font color: green
+    
+    
+    
+    Section 11
+    background color:f7f7f7
+    fonts
+    size
+    font color
+    space
+    
+    Section 12
+    background color:acd373
+    fonts
+    size
+    font color
+    space
+    
+    Section 13
+    background color:image
+    fonts
+    size
+    font color
+    space
+    
+    Section 14
+    background color:acd373
+    fonts
+    size
+    font color
+    space
+    
+    Section 15
+    background color:9abd67
+    fonts
+    size
+    font color
+    space
+    
+    
