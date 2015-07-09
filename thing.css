@@ -27,9 +27,7 @@ nav {
     margin-top: 8px;
     text-indent: 9999em;
 }
-.nav{
-    display: none;
-}
+
 .square {
     background-color: #89a85c;
     padding: 15px;
@@ -475,6 +473,7 @@ span {
     height:612px;
     width:360px;
     padding-top: 54px;
+    
 }
 .picture4 {
     margin-top: 35px;
@@ -485,16 +484,18 @@ span {
     height: 200px;
     text-decoration: none;
     color:black;
+    position: relative;
+    
 }
 .circle {
-    margin-top: -45px;
+    margin-top: -95px;
     border: 5px solid #ebebeb;
     border-radius: 50px;
     width: 30px;
     height 30px;
     margin-left: 60px;   
     background-color: #acd373;
-    display: inline;
+    display: inline-block;
     z-index: 2;
     padding: 5px;
 }
@@ -504,12 +505,13 @@ span {
     font-size: 11px;
     text-align: center;
     vertical-align: middle;
-    margin-top: 20px;
+
+
 }
 .circleImg {
     width: 20px;
     height: 20px;
-    vertical-align: middle;
+
 }
 .green {
     margin-top: 15px;
@@ -522,6 +524,8 @@ span {
     background-color: #acd373;
     padding-top: 11px;
     vertical-align: bottom;
+    position: absolute;
+    bottom: 0;
 }
 
 .email {

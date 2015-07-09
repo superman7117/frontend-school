@@ -1,0 +1,245 @@
+@media all and (max-width:499px) {
+
+    
+
+    
+    body {
+    font-size: 16px;
+    width: 360px;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: #acd373;
+    width: 360px;
+    height: 40px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.06);
+    display: inline-block;
+    position: relative;
+}
+.logo {
+    background-image: url('img/master-1.png');
+    background-size: contain;
+    width: 65px;
+    height: 23px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
+    margin-top: 8px;
+    text-indent: 9999em;
+}
+.nav {
+    display: none;   
+}
+.square {
+    background-color: #89a85c;
+    padding: 15px;
+    float: right;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+}
+.toggle {
+    background: #89a85c url('img/Master-2.png') no-repeat center;
+    width: 10px;
+    height: 10px;
+    text-indent: 9999em;
+    display: block;
+}
+.square:click {
+    
+}
+.intro {
+    background: #9abd67 url('img/siluet.png') no-repeat bottom center;
+    color: #f7f7f7;
+    height: 350px;
+    width: 360px;
+    background-size: contain;
+}
+    
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    color: #f7f7f7;
+    padding-top: 125px;
+    text-align: center;
+}
+h2 {
+    font-family: 'Droid Serif', serif;
+    font-style: italic;
+    font-size: 13px;
+    font-weight: normal;
+    padding-top: 16px;
+    text-align: center;
+}
+.arrow {
+    background-image: url('img/v.png');
+    height: 14px;
+    width: 26px;
+    display: block;
+    text-indent: 9999em;
+    margin-top: 57px;
+    margin-left: 168px;
+    text-align: center;
+}
+    .second {
+    background-color: #f7f7f7;
+    height:457px;
+    width:360px;
+    padding-top: 43px;
+}
+.phone {
+    background-image: url('img/phone.png');
+    height:208px;
+    width: 77px;
+    display: block;
+    text-indent: 9999em;
+    margin-left: 141px;
+    text-align: center;
+}
+.person {
+    margin-top: 36px;
+    height:30px;
+    width:25px;
+    margin-left: 29px;
+    margin-top: 36px;
+    display: inline-block;
+}
+h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    color: #454545;
+    display: inline-block;
+    margin-left: 13px;
+
+}
+h4 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 13px;
+    color: #454545;
+    width:299px;
+    margin-top: 23px;
+    margin-left: 29px;
+}
+h5 {
+    display: none;
+}
+.button {
+    margin-top: 28px;
+    margin-left: 30px;
+    height: 30px;
+    width: 90px;
+    border: 1px solid #9abd67;
+    text-align: center;
+    padding-top: 12px;
+    font-size: 14px;
+    color: #9abd67;
+    font-family: 'DroidSerif', serif;
+    font-style: italic;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.video {
+    background-image: url('img/video.jpg');
+    height: 261px;
+    width: 360px;
+    display: block;
+}
+.ourServices {
+    background-color: #f7f7f7;
+    height:456px;
+    width:360px;
+    padding-top: 44px;
+}
+.title {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    color: #454545;
+    display: block;
+    text-align: center;
+}
+.underTitle {
+    font-family: 'DroidSerif', sans-serif;
+    font-size: 12px;
+    color: #454545;
+    display: block;
+    margin-top: 12px;
+    text-align: center;
+}
+.blackSeperator {
+    width:76px;
+    height:6px;
+    display: block;
+    margin-top: 11px;
+    margin-left: 142px;
+}
+.brushIcon {
+     margin-top: 34px;
+    margin-right: 24px;
+    margin-left: 40px;
+    display: inline-block;
+    width:36px;
+    height: 61px;
+ }
+
+.ourDiv {
+    width: 215px;
+    height: 65px;
+    display: inline-block;
+}
+.none {
+    display: none;
+}
+.phoneOutline {
+     margin-top: 30px;
+    margin-right: 26px;
+    margin-left: 40px;
+    display: inline-block;
+    width:35px;
+    height: 59px;
+}
+
+.computerOutline {
+    margin-top: 39px;
+    margin-right: 17px;
+    margin-left: 40px;
+    display: inline-block;
+    width:42px;
+    height: 48px;
+}
+
+
+.heading {
+    font-family: 'DroidSerif', serif;
+    font-style: bold;
+    font-size: 14px;
+}
+.underHeading {
+    font-family: 'DroidSerif', serif;
+    margin-top: 13px;
+    font-size: 13px;
+}
+.button2 {
+    margin-top: 20px;
+    height: 30px;
+    width: 90px;
+    border: 1px solid #9abd67;
+    text-align: center;
+    font-size: 14px;
+    color: #9abd67;
+    font-family: 'DroidSerif', serif;
+    font-style: italic;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 41%;
+    line-height: 30px;
+    
+}
+span {
+    color: #acd373;   
+}
+    
+    
+    
+}
